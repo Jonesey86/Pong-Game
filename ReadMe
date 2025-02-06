@@ -29,7 +29,7 @@ How to run the game
 
 1. Clone repository : https://github.com/Jonesey86/Pong-Game
 
-2. Open Open the solution file (`Whack-a-Mole.sln`) in Visual Studio Code.
+2. Open Open the solution file (`Pong-Game.sln`) in Visual Studio Code.
 
 3. Rebuild solution.
 
@@ -43,7 +43,7 @@ How to play :video_game:
 - Click Start button.
 
 2.How to play the game
-Every 2 seconds a Mole and a Piranha plant will appear on screen, Player has to hit the Mole as many times as possible and avoid Piranha plant .
+Player has to use up and down key's to send the ball back to the AI Player.
 
 3. Win or Reset
 The game detects wins or loss and displays the result.
