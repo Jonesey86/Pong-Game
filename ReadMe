@@ -38,6 +38,7 @@ How to play :video_game:
 
   2.How to play the game
   Player has to use up and down key's to send the ball back to the AI Player.
+  Player will lose a point if they cant stop the ball in time
 
 3. Win or Reset
    The game detects wins or loss and displays the result, Best of 5 type of game.
