@@ -274,7 +274,7 @@ var Game = {
       );
     }
 
-    // Draw the net (Line in the middle)
+    // Draw the net (Line in the middle of the screen)
     this.context.beginPath();
     this.context.setLineDash([7, 15]);
     this.context.moveTo(this.canvas.width / 2, this.canvas.height - 140);
